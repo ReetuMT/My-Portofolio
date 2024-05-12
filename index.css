@@ -41,7 +41,7 @@ nav{
     flex-wrap: wrap;
 }
 .logo{
-    width: 150px;
+/*     width: 150px; */
     text-transform: uppercase;
     font-weight: 600;
     /* color: rgba(94, 187, 221, 0.453); */
